@@ -1,0 +1,28 @@
+.app{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+
+
+}
+
+.app > form {
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+}
+
+.app-input{
+    margin: 20px;
+}
+
+.button{
+    
+    width: 100px;
+}
+
+*{
+    background-color:whitesmoke
+}
